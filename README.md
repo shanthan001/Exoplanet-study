@@ -54,7 +54,3 @@ Our findings reveal only a small fraction of exoplanets could potentially harbor
 
 ## Future Work
 Building more robust predictive models by considering the effects of random effects and refining the analysis with additional parameters and more complex models.
-
-## Contact
-For more details, please refer to the full report or contact the authors.
-
