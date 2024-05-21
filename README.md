@@ -50,7 +50,7 @@ Our findings reveal only a small fraction of exoplanets could potentially harbor
   - FALSE POSITIVE: 3889 cases.
 - **Correlation Matrix**: Highlights the strength and direction of the relationships between pairs of variables.
 
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](corr_results.JPG)
 
 ## Future Work
 Building more robust predictive models by considering the effects of random effects and refining the analysis with additional parameters and more complex models.
